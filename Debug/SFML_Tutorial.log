@@ -1,2 +1,3 @@
 ﻿  main.cpp
+c:\dev\sfml_tutorial\main.cpp(136): warning C4305: 'argument': truncation from 'double' to 'float'
   SFML_Tutorial.vcxproj -> C:\dev\SFML_Tutorial\Debug\SFML_Tutorial.exe
