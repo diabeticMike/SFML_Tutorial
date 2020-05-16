@@ -1,0 +1,2 @@
+C:\dev\SFML_Tutorial\x64\Debug\SFML_Tutorial.exe
+C:\dev\SFML_Tutorial\x64\Debug\SFML_Tutorial.pdb
